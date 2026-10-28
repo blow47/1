@@ -1,0 +1,1 @@
+cd /home/blow/projects/httpsever/; g++ -o "/home/blow/projects/httpsever/bin/x64/Debug/httpsever.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/blow/projects/httpsever/obj/x64/Debug/main.o
